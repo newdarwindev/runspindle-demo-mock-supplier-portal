@@ -1,0 +1,19 @@
+{
+  "id": "mock-supplier-portal",
+  "name": "Fieldnote Produce",
+  "mark": "FP",
+  "tagline": "From the field to the packing list.",
+  "colors": {
+    "background": "#f4f3df",
+    "surface": "#fffef5",
+    "text": "#3d4521",
+    "accent": "#586522"
+  },
+  "typography": {
+    "display": "Book Antiqua, Georgia, serif",
+    "body": "Tahoma, sans-serif",
+    "tracking": ".045em"
+  },
+  "style": "harvest",
+  "radius": 16
+}
