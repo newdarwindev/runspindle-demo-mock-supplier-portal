@@ -1,0 +1,11 @@
+{
+  "app": "mock-supplier-portal",
+  "title": "Supplier Portal \u00b7 Fictional demo",
+  "port": 4313,
+  "allowedActions": [
+    "signin",
+    "identity",
+    "read",
+    "observation-status"
+  ]
+}
